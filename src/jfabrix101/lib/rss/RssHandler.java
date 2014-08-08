@@ -213,8 +213,7 @@ public class RssHandler extends DefaultHandler {
 		}
 		
 		// Recupero testo HTML per varie tipoligie di FeedRss
-		if (tagName.equals(":content:encoded") || tagName.equals(":content")
-				|| tagName.equals(":encoded")) { 
+		if (tagName.equals(":content:encoded") || tagName.equals(":content") || tagName.equals(":encoded")) { 
 			currentItem.setDescription(getText()); 
 			return;
 		}
