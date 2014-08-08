@@ -1,6 +1,10 @@
 package jfabrix101.lib.rss;
 
-
+/**
+ * RssFeed Lib Project
+ * 
+ * jfabrix101
+ */
 import java.io.PrintStream;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

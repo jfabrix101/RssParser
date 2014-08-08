@@ -1,5 +1,10 @@
 package jfabrix101.lib.rss;
 
+/**
+ * RssFeed Lib Project
+ * 
+ * jfabrix101
+ */
 public class RssParserException extends Exception {
 
 	public RssParserException() {

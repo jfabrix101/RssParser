@@ -14,6 +14,11 @@ import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 import org.xml.sax.XMLReader;
 
+/**
+ * RssFeed Lib Project
+ * 
+ * jfabrix101
+ */
 public final class RssParser {
 
 	private final RssHandler handler = new RssHandler();

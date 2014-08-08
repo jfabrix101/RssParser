@@ -1,5 +1,10 @@
 package jfabrix101.lib.rss;
 
+/**
+ * RssFeed Lib Project
+ * 
+ * jfabrix101
+ */
 import java.util.ArrayList;
 import java.util.List;
 

@@ -4,6 +4,13 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * RssFeed Lib Project
+ * 
+ * jfabrix101
+ * 
+ * Single item of feed
+ */
 public class RssItem implements Serializable {
 
 	private String pubDate = null;
